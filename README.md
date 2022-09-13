@@ -11,3 +11,6 @@ Some good references to start with the Wio.
 - https://www.youtube.com/watch?v=iCmlKyAp8eQ
 - https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/
 
+## Projects:
+### 01. real time scissor-rock-paper game with light sensor
+- Link: https://studio.edgeimpulse.com/studio/133592
